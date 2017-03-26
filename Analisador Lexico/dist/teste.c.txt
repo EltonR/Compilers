@@ -1,0 +1,9 @@
+main(){
+    float x, xyz;
+    if ( x > 5 ) {
+       while ( x <= 100) {
+          xyz = $x + 3;
+          x = xyz - x; 
+        }
+     }
+}

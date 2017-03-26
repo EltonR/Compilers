@@ -1,0 +1,39 @@
+
+ - Palavra Reservada main
+ - Delimitador (
+ - Delimitador )
+ - Delimitador {
+ - Palavra Reservada float
+ - Identificador x
+ - Delimitador ,
+ - Identificador xyz
+ - Delimitador ;
+ - Palavra Reservada if
+ - Delimitador (
+ - Identificador x
+ - Operador >
+ - Constante 5
+ - Delimitador )
+ - Delimitador {
+ - Palavra Reservada while
+ - Delimitador (
+ - Identificador x
+ - Operador <=
+ - Constante 100
+ - Delimitador )
+ - Delimitador {
+ - Identificador xyz
+ - Operador =
+ - Identificador x
+ - Operador +
+ - Constante 3
+ - Delimitador ;
+ - Identificador x
+ - Operador =
+ - Identificador xyz
+ - Operador -
+ - Identificador x
+ - Delimitador ;
+ - Delimitador }
+ - Delimitador }
+ - Delimitador }
